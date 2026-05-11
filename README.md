@@ -1,7 +1,7 @@
 # github-pages
- 🌐 Apresentação — Criação de Site do Portfólio
+ Apresentação — Criação de Site do Portfólio
 
-## 📌 Sobre o Projeto
+ Sobre o Projeto
 
 Nesta etapa do **Bootcamp I — Intermediário**, estamos desenvolvendo um **portfólio pessoal e profissional** com foco em apresentar habilidades, projetos, experiências e identidade visual de forma moderna e responsiva.
 
@@ -9,7 +9,7 @@ O objetivo principal é aplicar conhecimentos de desenvolvimento web na constru�
 
 ---
 
-## 🎯 Objetivos da Apresentação
+ Objetivos da Apresentação
 
 - Desenvolver um portfólio profissional online;
 - Praticar conceitos de HTML, CSS e JavaScript;
@@ -19,7 +19,7 @@ O objetivo principal é aplicar conhecimentos de desenvolvimento web na constru�
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -28,28 +28,28 @@ O objetivo principal é aplicar conhecimentos de desenvolvimento web na constru�
 
 ---
 
-## 📂 Estrutura do Portfólio
+ Estrutura do Portfólio
 
 O site contará com as seguintes seções:
 
-### 🏠 Home
+ Home
 Apresentação inicial do desenvolvedor.
 
-### 👨‍💻 Sobre Mim
+ Sobre Mim
 Informações pessoais, trajetória e objetivos profissionais.
 
-### 🚀 Projetos
+ Projetos
 Exibição dos principais projetos desenvolvidos.
 
-### 🧠 Habilidades
+ Habilidades
 Tecnologias e ferramentas dominadas.
 
-### 📞 Contato
+ Contato
 Links para redes sociais, e-mail e formas de comunicação.
 
 ---
 
-## 🎨 Características do Projeto
+ Características do Projeto
 
 - Design moderno;
 - Layout responsivo;
@@ -59,7 +59,7 @@ Links para redes sociais, e-mail e formas de comunicação.
 
 ---
 
-## 📚 Aprendizados
+ Aprendizados
 
 Durante o desenvolvimento deste projeto, estamos praticando:
 
@@ -71,13 +71,13 @@ Durante o desenvolvimento deste projeto, estamos praticando:
 
 ---
 
-## 👥 Equipe / Desenvolvedor
+ Equipe / Desenvolvedor
 
 Projeto desenvolvido durante o **Bootcamp I — Etapa Intermediária**.
 
 ---
 
-## 📎 Resultado Esperado
+ Resultado Esperado
 
 Criar um portfólio profissional capaz de representar nossas habilidades como desenvolvedores e servir como vitrine para futuros projetos e oportunidades.
 
