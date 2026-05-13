@@ -77,8 +77,9 @@ Projeto desenvolvido durante o **Bootcamp I — Etapa Intermediária**.
 
 ---
 
- Resultado Esperado
+ Resultado 
 
-Criar um portfólio profissional capaz de representar nossas habilidades como desenvolvedores e servir como vitrine para futuros projetos e oportunidades.
+Criação um portfólio profissional capaz de representar nossas habilidades como desenvolvedores e servir como vitrine para futuros projetos e oportunidades.
+link< https://estevaoceub.github.io/github-pages/>
 
 ---
